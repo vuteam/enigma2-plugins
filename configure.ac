@@ -395,12 +395,6 @@ simplerss/meta/Makefile
 simplerss/po/Makefile
 simplerss/src/Makefile
 
-systemtime/Makefile
-systemtime/meta/Makefile
-systemtime/po/Makefile
-systemtime/src/Makefile
-systemtime/src/images/Makefile
-
 svdrp/Makefile
 svdrp/meta/Makefile
 svdrp/src/Makefile
