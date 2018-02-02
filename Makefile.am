@@ -67,7 +67,6 @@ SUBDIRS = \
 	showclock \
 	simplerss \
 	svdrp \
-	systemtime \
 	tageditor \
 	trafficinfo \
 	transcodingsetup \
